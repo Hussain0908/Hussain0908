@@ -1,16 +1,38 @@
-### Hi there 👋
+## Hello I'm Talal 👋
 
-<!--
-**Hussain0908/Hussain0908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail](https://img.shields.io/badge/TALAL03HUSSAIN-white?style=flat&logo=gmail&logoColor=red)](mailto:talal03hussain@gmail.com)
+[![Linkedin](https://img.shields.io/badge/TalalHussain-white?style=flat&logo=linkedin&logoColor=blue)](www.linkedin.com/in/talal-hussain)
+[![Github](https://img.shields.io/badge/Hussain0908-white?style=flat&logo=github&logoColor=black)](https://github.com/Hussain0908)
 
-Here are some ideas to get you started:
+### Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Quiskit](https://img.shields.io/badge/Qiskit-white?style=flat&logo=qiskit&logoColor=black)
+![Python](https://img.shields.io/badge/Python-white?style=flat&logo=python)
+![NumPy](https://img.shields.io/badge/NumPy-white?style=flat&logo=numpy&logoColor=blue)
+![Pandas](https://img.shields.io/badge/Pandas-white?style=flat&logo=pandas&logoColor=darkblue)
+![Scikitlearn](https://img.shields.io/badge/Sci_Kit_Learn-white?style=flat&logo=scikitlearn&logoColor=lightorange)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-white?style=flat&logo=tensorflow&logoColor=orange)
+![Java](https://img.shields.io/badge/Java-white?style=flat&logo=Java)
+![C++](https://img.shields.io/badge/C%2B%2B-white?style=flat&logo=C%2B%2B&logoColor=blue)
+![HTML5](https://img.shields.io/badge/HTML5-white?style=flat&logo=html5)
+![SQLite](https://img.shields.io/badge/SQLite-white?style=flat&logo=sqlite&logoColor=blue)
+![MSQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-white?style=flat&logo=microsoftsqlserver&logoColor=red)
+![MicrosoftAI](https://img.shields.io/badge/Mircrosoft_AI_Copilot_%26_OpenAI-white?style=flat&logo=microsoft&logoColor=green)
+![VertexAI](https://img.shields.io/badge/VertexAI-white?style=flat&logo=google&logoColor=blue)
+![Langchain](https://img.shields.io/badge/LangChain-white?style=flat&logo=langchain)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-white?style=flat&logo=facepunch&logoColor=yellow)
+![PowerAutomate](https://img.shields.io/badge/Power_Automate-white?style=flat&logo=powerautomate&logoColor=blue)
+![PowerApps](https://img.shields.io/badge/PowerApps-white?style=flat&logo=powerapps&logoColor=purple)
+![GCP](https://img.shields.io/badge/Google_Cloud-white?style=flat&logo=google%20cloud&logoColor=red)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-white?style=flat&logo=microsoftazure&logoColor=blue)
+![PhoneRepair](https://img.shields.io/badge/3_Years_Phone_Repair-white?style=flat&logo=ifixit&logoColor=blue)
+
+![Colab](https://img.shields.io/badge/Google_Colab-white?style=flat&logo=googlecolab&logoColor=Orange)
+![Anaconda](https://img.shields.io/badge/Anaconda-white?style=flat&logo=anaconda&logoColor=green)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-white?style=flat&logo=jupyter&logoColor=orange)
+![VSCode](https://img.shields.io/badge/VSCode-white?style=flat&logo=visualstudiocode&logoColor=blue)
+![VisualCode](https://img.shields.io/badge/Visual_Studio-white?style=flat&logo=visualstudio&logoColor=purple)
+![PyCharm](https://img.shields.io/badge/PyCharm-white?style=flat&logo=pycharm&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-white?style=flat&logo=openai&logoColor=black)
+![Bard](https://img.shields.io/badge/Bard-white?style=flat&logo=googlebard&logoColor=%23C71585)
+![Kaggle](https://img.shields.io/badge/Kaggle-white?style=flat&logo=kaggle&logoColor=lightblue)
