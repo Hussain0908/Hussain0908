@@ -1,7 +1,7 @@
 ## Hello I'm Talal 👋
 
 [![Gmail](https://img.shields.io/badge/TALAL03HUSSAIN-white?style=flat&logo=gmail&logoColor=red)](mailto:talal03hussain@gmail.com)
-[![Linkedin](https://img.shields.io/badge/TalalHussain-white?style=flat&logo=linkedin&logoColor=blue)](www.linkedin.com/in/talal-hussain)
+[![Linkedin](https://img.shields.io/badge/TalalHussain-white?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/talal-hussain)
 [![Github](https://img.shields.io/badge/Hussain0908-white?style=flat&logo=github&logoColor=black)](https://github.com/Hussain0908)
 
 ### Skills & Tools
