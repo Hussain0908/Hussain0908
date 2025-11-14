@@ -25,7 +25,6 @@
 ![PowerApps](https://img.shields.io/badge/PowerApps-white?style=flat&logo=powerapps&logoColor=purple)
 ![GCP](https://img.shields.io/badge/Google_Cloud-white?style=flat&logo=google%20cloud&logoColor=red)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-white?style=flat&logo=microsoftazure&logoColor=blue)
-![PhoneRepair](https://img.shields.io/badge/3_Years_Phone_Repair-white?style=flat&logo=ifixit&logoColor=blue)
 
 ![Colab](https://img.shields.io/badge/Google_Colab-white?style=flat&logo=googlecolab&logoColor=Orange)
 ![Anaconda](https://img.shields.io/badge/Anaconda-white?style=flat&logo=anaconda&logoColor=green)
